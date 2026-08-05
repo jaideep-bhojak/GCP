@@ -19,3 +19,5 @@ Why to provide this?
    a. When the load increases at the time when the users are hitting the application APIs in high demand. As you know when the exam website crashes.
    We need more servers here and hence cost of buying new servers and keeping them increases.
    b. The problem arises when the load decreases, at that time we do not need more servers and there are redundant servers kept in the space which are not required.
+
+Hence we go for cloud servers. Which are pay as you go!
