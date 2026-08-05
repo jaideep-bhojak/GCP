@@ -1,5 +1,5 @@
 # GCP
-KT on GCP
+☁️ KT on GCP
 
 AWS Certified Cloud Practitioner (CLF-C02)
 
@@ -12,7 +12,7 @@ Cloud computing means providing the computing services to the costumers which in
   Networking etc.
 
 Why to provide this?
-Because the physical servers has a lot of drawbacks.
+🧱Because the physical servers has a lot of drawbacks.
 1. These needs a space to install.
 2. These needs money to maintain. These are physical drawbacks.
 3. Other drawbacks:
