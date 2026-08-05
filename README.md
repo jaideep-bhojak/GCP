@@ -75,6 +75,7 @@ Iaas: Networking, Storage, Servers, Virtualization (Like renting a car) - Scalab
 Paas: Iass + OS + Middleware + Runtime (Like a sharing cab) - Full development environment saving developers time. Eg. Google App Engine and AWS Elastic Beanstalk
 Saas: Pass + Data + Applications (Like taking a bus) - Software's available online, no installation. Google workspace, Dropbox, office 365 etc.
 
+Faas: Function as a service. Serverless computing. - Instead of managing servers you just run functions like Identity authentication (Managing user logins), processing payments (payment transactions) etc.
 
 
 
