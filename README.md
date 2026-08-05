@@ -41,6 +41,41 @@ Compute is the brain or a server which host the application
 Storage Saves Data and Files
 Database store the data for easy retrieval, management and analysis.
 
+How cloud providers handle multiple users:
+
+Ans. Virtualisation
+
+Means splitting one physical server to multiple virtual servers each acting as an independent machine.
+
+Scalability:
+
+Adjusting an existing machines power.
+These are vertical scaling and horizontal scaling.
+
+If need more resource scale up and for less resource scale down.
+
+Speed:
+
+Reliability:
+The cloud providers(cp) will clone/replicate the data on multiple databases or datacenters and hence
+less outages
+
+Security:
+
+Industries like Healthcare, Finance and Govt need more security.
+
+
+Cloud services are of 3 types:
+
+Iaas
+Paas
+Saas
+
+Iaas: Networking, Storage, Servers, Virtualization (Like renting a car) - Scalable cloud based infrastructure, used by system admins like AWS EC2 or Google cloud Compute Engine
+Paas: Iass + OS + Middleware + Runtime (Like a sharing cab) - Full development environment saving developers time. Eg. Google App Engine and AWS Elastic Beanstalk
+Saas: Pass + Data + Applications (Like taking a bus) - Software's available online, no installation. Google workspace, Dropbox, office 365 etc.
+
+
 
 
 
